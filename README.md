@@ -4,10 +4,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sky-senge&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://space.bilibili.com/68243350?spm_id_from=333.1007.0.0)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![哔哩哔哩](https://img.shields.io/badge/Bilibili-%森森超愛してる哒mua%-blueviolet?logo=bilibili&logoColor=white)](https://space.bilibili.com/68243350)
+[![网易云音乐](https://img.shields.io/static/v1?label=网易云音乐&message=%此账号因为过于Live二次元已封禁%&color=52c41a&style=flat-square)](https://music.163.com/#/user/home?id=428529231)
+[![SakuraAnime](https://img.shields.io/static/v1?label=SakuraAnime&message=点击访问&color=9c27b0&style=flat-square)](https://shenjack.top:31001/)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern java](https://img.shields.io/badge/code-Modern%20Java-blue)](https://docs.oracle.com/en/java/javase/17/) 
+[![Vue 3](https://img.shields.io/badge/Vue.js-3.x-%2342b983)](https://vuejs.org/)
+
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)

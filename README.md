@@ -4,8 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sky-senge&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![哔哩哔哩](https://img.shields.io/badge/Bilibili-%森森超愛してる哒mua%-blueviolet?logo=bilibili&logoColor=white)](https://space.bilibili.com/68243350)
-[![网易云音乐](https://img.shields.io/static/v1?label=网易云音乐&message=%此账号因为过于Live二次元已封禁%&color=52c41a&style=flat-square)](https://music.163.com/#/user/home?id=428529231)
+[![哔哩哔哩](https://img.shields.io/badge/Bilibili-森森超愛してる哒mua-blueviolet?logo=bilibili&logoColor=white)](https://space.bilibili.com/68243350)
+[![网易云音乐](https://img.shields.io/static/v1?label=网易云音乐&message=此账号因为过于Live二次元已封禁&color=52c41a&style=flat-square)](https://music.163.com/#/user/home?id=428529231)
 [![SakuraAnime](https://img.shields.io/static/v1?label=SakuraAnime&message=点击访问&color=9c27b0&style=flat-square)](https://shenjack.top:31001/)
 
 [![modern java](https://img.shields.io/badge/code-Modern%20Java-blue)](https://docs.oracle.com/en/java/javase/17/) 
